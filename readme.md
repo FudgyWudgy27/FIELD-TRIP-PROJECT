@@ -35,7 +35,7 @@ As stated in the Core Webpages section, all pages will have a navigation bar at 
 Home page: 
  - Has the description section at the top of the page
  - Has the three newest artifacts displayed beneath it (This section will have a light gray background)
-I have a visual of how I want the page to be, however, I couldn't think of any websites that follows this format
+ - I have a visual of how I want the page to be, however, I couldn't think of any websites that follows this format
 
 Artifacts page:
  - A filter at the top of the page, this will most likely be either a drop down or a click the bubble selection (This section will have a light gray background)
